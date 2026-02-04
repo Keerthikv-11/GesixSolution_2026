@@ -18,8 +18,9 @@ const routes = createBrowserRouter([
   { path : "/Techstack" , element : <Techstack />},
   { path :"/Projects" , element : <Projects/>},
   { path :"/contact" , element : < Contact/>},
-  
-]
+],{
+  basename:"/GesixSolution_2026"
+}
 )
 
   return (
