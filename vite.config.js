@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: "/GesixSolution_2026"
+  base: "/GesixSolution_2026/"
 })
