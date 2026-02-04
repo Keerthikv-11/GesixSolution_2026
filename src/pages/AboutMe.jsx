@@ -1,4 +1,4 @@
-import './AboutMe.css'
+import './Aboutme.css'
 import { Footer } from '../components/Footer'
 import { Navigation } from '../components/Navigation'
 
