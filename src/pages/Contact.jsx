@@ -22,21 +22,21 @@ export const Contact = () => {
         <div className="contact-methods">
           <div className="contact-card">
             <h3>Email Me</h3>
-            <a href="mailto:yourname@email.com" className="contact-link">
+            <a href="mailto:Keerthikv018@gmail.com" className="contact-link">
               Keerthikv018@email.com
             </a>
           </div>
 
           <div className="contact-card">
             <h3>Professional Network</h3>
-            <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noreferrer" className="contact-link">
+            <a href="https://www.linkedin.com/in/keerthi-k-v-75a488240?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noreferrer" className="contact-link">
               Connect on LinkedIn ↗
             </a>
           </div>
 
           <div className="contact-card">
             <h3>Code & Collaboration</h3>
-            <a href="https://github.com/yourusername" target="_blank" rel="noreferrer" className="contact-link">
+            <a href="https://github.com/Keerthikv-11" target="_blank" rel="noreferrer" className="contact-link">
               GitHub Profile ↗
             </a>
           </div>

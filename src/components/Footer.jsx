@@ -19,14 +19,14 @@ export const Footer = () => {
 
         <div className="footer-links">
           <a 
-            href="https://linkedin.com/in/Keerthi-k-v" 
+            href="https://www.linkedin.com/in/keerthi-k-v-75a488240?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" 
             target="_blank" 
             className="footer-link"
           ><FontAwesomeIcon icon={faLinkedin} />
             LinkedIn
           </a>
           <a 
-            href="https://github.com/yourusername" 
+            href="https://github.com/Keerthikv-11" 
             target="_blank" 
             rel="noopener noreferrer"
             className="footer-link"

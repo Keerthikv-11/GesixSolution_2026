@@ -23,8 +23,13 @@ export const Home = () => {
             </p>
 
             <div className="hero-btns">
+                 <a href="/Contact">
                 <button className="btn-primary">Contact me →</button>
-                <button className="btn-secondary">My Resume</button>
+                </a>
+
+                <a href="/Keerthi K V0.pdf" download>
+  <button className="btn-secondary">My Resume</button>
+</a>
             </div>
         </div>
         <Footer />
