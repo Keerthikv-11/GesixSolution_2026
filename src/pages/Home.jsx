@@ -23,7 +23,7 @@ export const Home = () => {
             </p>
 
             <div className="hero-btns">
-                 <a href="/Contact">
+                 <a href="mailto:Keerthikv018@gmail.com">
                 <button className="btn-primary">Contact me →</button>
                 </a>
 
