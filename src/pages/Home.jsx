@@ -27,7 +27,7 @@ export const Home = () => {
                 <button className="btn-primary">Contact me →</button>
                 </a>
 
-                <a href="/Keerthi K V0.pdf" download>
+                <a href="/Keerthidoc.pdf" download>
   <button className="btn-secondary">My Resume</button>
 </a>
             </div>
