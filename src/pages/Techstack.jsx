@@ -8,18 +8,17 @@ export const Techstack = () => {
         { name: "React", icon: "⚛️" },
         { name: "JavaScript", icon: "🟨" },
         { name: "CSS3", icon: "🎨" },
-        { name: "HTML5", icon: "🌐" },
-        { name: "Tailwind", icon: "🌊" },
-        { name: "TypeScript", icon: "🟦" }
+        { name: "HTML5", icon: "🌐" }
+        
     ];
 
     const familiarSkills = [
+        { name: "Tailwind", icon: "🌊" },
         { name: "Node.js", icon: "🟢" },
         { name: "Python", icon: "🐍" },
-        { name: "PostgreSQL", icon: "🐘" },
         { name: "Next.js", icon: "▲" },
         { name: "Git/GitHub", icon: "📂" }
-    ];
+    ];2
     return (
         <>
             <Navigation />
